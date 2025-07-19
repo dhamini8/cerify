@@ -2,7 +2,7 @@
   "name": "cerify-landing",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://yourusername.github.io/cerify-landing",
+  "homepage": "https://dhamini8.github.io/cerify",
   "scripts": {
     "dev": "react-scripts start",
     "server:dev": "NODE_ENV=development node server/index.js",
