@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cerify-landing/static/css/main.7e5fd093.css",
+    "main.js": "/cerify-landing/static/js/main.2bf3b4be.js",
+    "index.html": "/cerify-landing/index.html",
+    "main.7e5fd093.css.map": "/cerify-landing/static/css/main.7e5fd093.css.map",
+    "main.2bf3b4be.js.map": "/cerify-landing/static/js/main.2bf3b4be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e5fd093.css",
+    "static/js/main.2bf3b4be.js"
+  ]
+}
